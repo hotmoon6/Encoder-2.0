@@ -22,7 +22,7 @@ logging.basicConfig(format='%(asctime)s - %(name)s - %(levelname)s - %(message)s
                     handlers=[logging.FileHandler('log.txt'), logging.StreamHandler()],
                     level=logging.INFO)
 
-UPSTREAM_REPO = 'https://github.com/WeebTime/Video-Encoder-Bot'
+UPSTREAM_REPO = 'https://github.com/hotmoon6/Encoder-2.0'
 UPSTREAM_BRANCH = 'beta'
 
 if UPSTREAM_REPO is not None:
