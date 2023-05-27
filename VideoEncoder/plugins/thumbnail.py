@@ -14,7 +14,7 @@
 # You should have received a copy of the GNU Affero General Public License
 # along with this program. If not, see <https://www.gnu.org/licenses/>.
 
-# Code Taken from github.com/WeebTime/Torrent-Bot-Lazyleech/blob/Master/lazyleech/utils/misc.py
+# Code Taken from github
 
 import os
 import tempfile
